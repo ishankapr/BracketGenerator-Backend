@@ -1,0 +1,198 @@
+{
+  "R16": [
+    {
+      "Seed": "1A",
+      "Team": "Netherlands"
+    },
+    {
+      "Seed": "2A",
+      "Team": "Qatar"
+    },
+    {
+      "Seed": "1B",
+      "Team": "England"
+    },
+    {
+      "Seed": "2B",
+      "Team": "Scotland"
+    },
+    {
+      "Seed": "1C",
+      "Team": "Argentina"
+    },
+    {
+      "Seed": "2C",
+      "Team": "Mexico"
+    },
+    {
+      "Seed": "1D",
+      "Team": "France"
+    },
+    {
+      "Seed": "2D",
+      "Team": "Denmark"
+    },
+    {
+      "Seed": "1E",
+      "Team": "Spain"
+    },
+    {
+      "Seed": "2E",
+      "Team": "Germany"
+    },
+    {
+      "Seed": "1F",
+      "Team": "Canada"
+    },
+    {
+      "Seed": "2F",
+      "Team": "Croatia"
+    },
+    {
+      "Seed": "1G",
+      "Team": "Brazil"
+    },
+    {
+      "Seed": "2G",
+      "Team": "Switzerland"
+    },
+    {
+      "Seed": "1H",
+      "Team": "Portugal"
+    },
+    {
+      "Seed": "2H",
+      "Team": "Uruguay"
+    }
+  ],
+  "R32": [
+    {
+      "Seed": "1A",
+      "Team": "Netherlands"
+    },
+    {
+      "Seed": "2A",
+      "Team": "Ecuador"
+    },
+    {
+      "Seed": "1B",
+      "Team": "England"
+    },
+    {
+      "Seed": "2B",
+      "Team": "Iran"
+    },
+    {
+      "Seed": "1C",
+      "Team": "Quatar"
+    },
+    {
+      "Seed": "2C",
+      "Team": "Senegal"
+    },
+    {
+      "Seed": "1D",
+      "Team": "USA"
+    },
+    {
+      "Seed": "2D",
+      "Team": "Scotland"
+    },
+    {
+      "Seed": "1E",
+      "Team": "Argentina"
+    },
+    {
+      "Seed": "2E",
+      "Team": "Soudi Arabia"
+    },
+    {
+      "Seed": "1F",
+      "Team": "France"
+    },
+    {
+      "Seed": "2F",
+      "Team": "Australia"
+    },
+    {
+      "Seed": "1G",
+      "Team": "Mexico"
+    },
+    {
+      "Seed": "2G",
+      "Team": "Poland"
+    },
+    {
+      "Seed": "1H",
+      "Team": "Denmark"
+    },
+    {
+      "Seed": "2H",
+      "Team": "Tunisia"
+    },
+    {
+      "Seed": "1I",
+      "Team": "Spain"
+    },
+    {
+      "Seed": "2I",
+      "Team": "New Zealand"
+    },
+    {
+      "Seed": "1J",
+      "Team": "Belgium"
+    },
+    {
+      "Seed": "2J",
+      "Team": "Canada"
+    },
+    {
+      "Seed": "1K",
+      "Team": "Germany"
+    },
+    {
+      "Seed": "2K",
+      "Team": "Japan"
+    },
+    {
+      "Seed": "1L",
+      "Team": "Morocco"
+    },
+    {
+      "Seed": "2L",
+      "Team": "Croatia"
+    },
+    {
+      "Seed": "1M",
+      "Team": "Brazil"
+    },
+    {
+      "Seed": "2M",
+      "Team": "Serbia"
+    },
+    {
+      "Seed": "1N",
+      "Team": "Prutugal"
+    },
+    {
+      "Seed": "2N",
+      "Team": "Gahana"
+    },
+    {
+      "Seed": "1O",
+      "Team": "Switzerland"
+    },
+    {
+      "Seed": "2O",
+      "Team": "Cameroon"
+    },
+    {
+      "Seed": "1P",
+      "Team": "Uruguway"
+    },
+    {
+      "Seed": "2P",
+      "Team": "South Korea"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+﻿{
+  "R32_Round1": [
+    {
+      "Team": "Netherlands"
+    },
+    {
+      "Team": "England"
+    },
+    {
+      "Team": "Quatar"
+    },
+    {
+      "Team": "Scotland"
+    },
+    {
+      "Team": "Argentina"
+    },
+    {
+      "Team": "France"
+    },
+    {
+      "Team": "Mexico"
+    },
+    {
+      "Team": "Denmark"
+    },
+    {
+      "Team": "Spain"
+    },
+    {
+      "Team": "Canada"
+    },
+    {
+      "Team": "Germany"
+    },
+    {
+      "Team": "Croatia"
+    },
+    {
+      "Team": "Brazil"
+    },
+    {
+      "Team": "Prutugal"
+    },
+    {
+      "Team": "Switzerland"
+    },
+    {
+      "Team": "Uruguway"
+    }
+  ],
+  "R32_Round2": [
+    {
+      "Team": "Netherlands"
+    },
+    {
+      "Team": "Scotland"
+    },
+    {
+      "Team": "Argentina"
+    },
+    {
+      "Team": "France"
+    },
+    {
+      "Team": "Canada"
+    },
+    {
+      "Team": "Germany"
+    },
+    {
+      "Team": "Brazil"
+    },
+    {
+      "Team": "Prutugal"
+    }
+  ],
+  "R32_Round3": [
+    {
+      "Team": "Netherlands"
+    },
+    {
+      "Team": "France"
+    },
+    {
+      "Team": "Germany"
+    },
+    {
+      "Team": "Prutugal"
+    }
+  ],
+  "R32_Round4": [
+    {
+      "Team": "Netherlands"
+    },
+    {
+      "Team": "France"
+    }
+  ],
+  "R32_Round5": [
+    {
+      "Team": "Netherlands"
+    }
+  ],
+  "R16_Round1": [
+    {
+      "Team": "Netherlands"
+    },
+    {
+      "Team": "Argentina"
+    },
+    {
+      "Team": "Germany"
+    },
+    {
+      "Team": "Brazil"
+    },
+    {
+      "Team": "Scotland"
+    },
+    {
+      "Team": "France"
+    },
+    {
+      "Team": "Canada"
+    },
+    {
+      "Team": "Portugal"
+    }
+  ],
+  "R16_Round2": [
+    {
+      "Team": "Netherlands"
+    },
+    {
+      "Team": "Germany"
+    },
+    {
+      "Team": "France"
+    },
+    {
+      "Team": "Portugal"
+    }
+  ],
+  "R16_Round3": [
+    {
+      "Team": "Netherlands"
+    },
+    {
+      "Team": "France"
+    }
+  ],
+  "R16_Round4": [
+    {
+      "Team": "Netherlands"
+    }
+  ]
+}
